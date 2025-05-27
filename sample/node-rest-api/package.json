@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Test node rest api",
+  "license": "ISC",
+  "author": "luca",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
